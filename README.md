@@ -17,7 +17,7 @@ This repo is my organized, practical record of what I’ve learned and built—n
 ## 📂 Repo Structure
 | Folder | Description |
 |--------|-------------|
-| `nas-project/` | Hardware specs, OS install steps, Samba config |
+| `nas-project/` -(https://github.com/tpatters10/nas-project-)  | Hardware specs, OS install steps, Samba config | 
 | `spam-filter-project/` | Notes and tools used to fight spam emails |
 | `htb-writeups/` | General strategy writeups for Hack The Box |
 | `certification-notes/` | Study notes and reflections from past and upcoming certs |
