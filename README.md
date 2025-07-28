@@ -33,7 +33,7 @@ This repo is my organized, practical record of what I’ve learned and built—n
 | AWS Cloud Practitioner | ✅ Completed |
 | Microsoft Azure AI-900 | ✅ Completed |
 | CompTIA ITF+ | ✅ Completed |
-| CompTIA Network+ | 🕐 Scheduled |
+| CompTIA Network+ | ✅ Completed |
 | PJPT | 🕐 In progress |
 | Pentest+/Linux+ | ⚠️ On the radar (time permitting) |
 
